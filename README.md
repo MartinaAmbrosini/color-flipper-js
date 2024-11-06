@@ -8,7 +8,8 @@ The exercise leverages several key JavaScript concepts:
 -  `document.querySelector()` -
 -  `addEventListener()` -
 -  `document.body.style.backgroundColor` -
--  `Math.floor()` - `Math.random()` -
+-  `Math.floor()` -
+-   `Math.random()` -
 -  `array.length`-
 
 With these elements, you can change the background color of the body by simply clicking a button, cycling through the colors provided.
